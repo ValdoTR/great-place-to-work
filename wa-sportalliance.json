@@ -878,19 +878,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":18,
-         "firstgid":17384,
-         "image":"src\/assets\/modern\/animated_escalator_up_32x32.png",
-         "imageheight":160,
-         "imagewidth":576,
-         "margin":0,
-         "name":"animated_escalator_up_32x32",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":8,
          "firstgid":17384,
          "image":"src\/assets\/fantasy_1.png",
