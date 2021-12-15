@@ -644,7 +644,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"src\/UnbenanntePra\u0308sentation.pdf"
+                                 "value":"src\/map.pdf"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
